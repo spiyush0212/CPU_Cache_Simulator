@@ -1,5 +1,13 @@
 # CACHE PROJECT
 
+This repository contains the JavaE code of my project "CacheMemory" for COA course in 2nd semester of IIIT-Delhi.
+
+Programming Language: Java
+
+Developer: Piyush Sharma
+
+# DOCUMENTATION
+
 PROBLEM STATEMENT
 
 Write a program that allows loading into cache and searching cache using:
