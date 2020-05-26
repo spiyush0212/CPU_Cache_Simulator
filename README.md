@@ -16,8 +16,7 @@ ASSUMPTIONS
 The following are the assumptions:
 1. The size of Main Memory, Cache Memory and Block Size should be taken in Bytes Eg: 128 Bytes, 1024 Bytes
 2. The size of Main Memory, Cache Memory and Block Size is entered in power of 2 Eg; 64 Bytes, 256 Bytes
-3. The number of lines in Cache is entered in power of 2
-Eg; 4, 8, 16, 32
+3. The number of lines in Cache is entered in power of 2. Eg; 4, 8, 16, 32
 4. The size of each word is 2 Bytes 1 word = 2 bytes = 16 bits
 5. The Random Cache Replacement Algorithm is applied for replacement during Fully and K- Way Set Assocoative Mapping
 
