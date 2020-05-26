@@ -1,6 +1,6 @@
 # CACHE PROJECT
 
-This repository contains the JavaE code of my project "CacheMemory" for COA course in 2nd semester of IIIT-Delhi.
+This repository contains the Java code of my project "CacheMemory" for COA course in 2nd semester of IIIT-Delhi.
 
 Programming Language: Java
 
